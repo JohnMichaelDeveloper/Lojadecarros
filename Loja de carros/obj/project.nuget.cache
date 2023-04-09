@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LMvcrYQAZBi+sOJZ2HMKnCyi/J/mqcI5sx36Xd9gxDqQj68WDP/1+GWjl/3RVC9q88gr9iVJvkZm+kEnfzXumA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\Loja de carros\\Loja de carros\\Loja de carros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

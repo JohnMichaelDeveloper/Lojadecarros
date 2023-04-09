@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\Loja de carros\\Loja de carros\\Loja de carros.csproj": {}
+    "C:\\Users\\Lenovo\\Documents\\Loja de carros\\Loja de carros\\Loja de carros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\Loja de carros\\Loja de carros\\Loja de carros.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\Loja de carros\\Loja de carros\\Loja de carros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Loja de carros\\Loja de carros\\Loja de carros.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\Loja de carros\\Loja de carros\\Loja de carros.csproj",
         "projectName": "Loja de carros",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Loja de carros\\Loja de carros\\Loja de carros.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\Loja de carros\\Loja de carros\\Loja de carros.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Loja de carros\\Loja de carros\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\Loja de carros\\Loja de carros\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages",
